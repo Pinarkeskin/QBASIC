@@ -1,0 +1,7 @@
+'INPUT KOMUTU klavyeden programa veri girilmesini saglar.
+INPUT A, B, C
+INPUT "BIR SAYI GIRINIZ:"; A
+INPUT "IKI SAYI GIRINIZ:"; A, B
+INPUT "BIR KARAKTER GIRINIZ:", A$
+INPUT "ADINIZ:"; AD$
+INPUT "YASINIZ:"; YAS%
