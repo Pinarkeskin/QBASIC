@@ -1,0 +1,8 @@
+PRINT "Yapilabilecek Matematik Islemleri:"
+PRINT "9 + 11="; 9 + 11
+PRINT "100 - 45="; 100 - 45
+PRINT "50 * 6="; 50 * 6
+PRINT "100 / 5="; 100 / 5
+PRINT "2 USSU 5="; 2 ^ 5
+PRINT "KAREKOK 25="; SQR(25)
+PRINT "MUTLAK (-22)="; ABS(-22)
